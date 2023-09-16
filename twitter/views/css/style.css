@@ -20,3 +20,7 @@ body {
     border-radius: 50%;
     margin-right: 12px;
    }
+   div img:hover {
+    background-color: pink;
+    opacity: 0.5;
+   }
