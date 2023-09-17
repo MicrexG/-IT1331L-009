@@ -3,8 +3,8 @@ const userDetailsConfig = {
     uri: "https://twitter154.p.rapidapi.com/user/details?username=",
     method: "GET",
     headers: {
-      "X-RapidAPI-Key": "YOUR_RAPIDAPI_KEY_HERE",
-      "X-RapidAPI-Host": "twitter154.p.rapidapi.com",
+      "X-RapidAPI-Key": '2eb542518emsh45deb453541b5adp1fb7e0jsn267f86f93e93',
+      "X-RapidAPI-Host": 'twitter154.p.rapidapi.com',
     },
   },
 };
